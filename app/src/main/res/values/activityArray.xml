@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerArray">
+        <item>Select Activity</item>
+        <item>Stand</item>
+        <item>Sit</item>
+        <item>Lie</item>
+        <item>Walk</item>
+    </string-array>
+</resources>
